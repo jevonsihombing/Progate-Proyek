@@ -94,7 +94,7 @@
         background-color: yellow;
       }
     }
-    @media(max-width:470px) {
+    @media(max-width:480px) {
         button {
             font-size: 20px;
             width: 300px;
@@ -114,16 +114,15 @@
             margin-bottom: 20px;
         }
         input, textarea {
-            width: 400px;
-            margin-top: 10px;
-            margin-bottom: 21px;
-            padding: 20px;
-            font-size: 18px;
-            border: 1px solid #dee7ec;
-            display: block;
-            align-items: center;
-            margin-left: 45px;
-        }
+        width: 300px;
+        margin-top: 5px;
+        margin-bottom: 28px;
+        padding: 20px;
+        font-size: 18px;
+        border: 1px solid #dee7ec;
+        display: block;
+        align-items: center;
+        margin-left: 90px;
     }
     @media (max-width:350px){
         .menu-icon{
